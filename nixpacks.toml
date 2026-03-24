@@ -4,6 +4,9 @@ NPM_CONFIG_PRODUCTION = "false"
 [phases.setup]
 nixPkgs = ["nodejs-24_x"]
 
+[nixpacks]
+nixpkgsArchive = "https://github.com/NixOS/nixpkgs/archive/nixos-24.05.tar.gz"
+
 [phases.install]
 cmds = ["npm ci"]
 
