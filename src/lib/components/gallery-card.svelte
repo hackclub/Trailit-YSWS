@@ -39,7 +39,8 @@
                 <track kind="captions" />
             </video>
         {:else if screenshot}
-            <img src={screenshot} alt={project['Product Name']} />
+            <video controls preload="metadata" src={screenshot}>
+                <track kind="captions" />
         {:else}
             <div class="media-fallback">No preview</div>
         {/if}
