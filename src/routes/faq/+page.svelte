@@ -8,19 +8,19 @@
     const faqData = [
         {
             question: "What is TrailIt?",
-            answer: "TrailIt is a Hack Club event where you'll build a web-app project, and produce a trailer / showcase video for it. <br> And then you'll recive clappboards, and buy production equipment with them in the <a href='/shop'><u>shop</u></a>!"
+            answer: "TrailIt is a Hack Club event where you'll build a web-app project, and produce a trailer / showcase video for it. <br> And then you'll receive clappboards, and buy production equipment with them in the <a href='/shop'><u>shop</u></a>!"
         },
         {
             question: "How do I earn clappboards?",
-            answer: "Clappboards can be Earned thorugh 2 ways: <br> 1. Completing <a href='/quests'><u>quests</u></a> <br> 2. Submitting projects."
+            answer: "Clappboards can be earned through 2 ways: <br> 1. Completing <a href='/quests'><u>quests</u></a> <br> 2. Submitting projects."
         },
         {
             question: "What is the calculation for clappboards?",
-            answer: "You earn Clappboards based on a rating you will get from 0 to 10 (with another 3 bonus points availdable) * 12(Development) * hours you did."
+            answer: "You earn Clappboards based on a rating you will get from 0 to 10 (with another 3 bonus points available) * 12(Development) * hours you did."
         },
         {
             question: "How long will TrailIt run?",
-            answer: "TrailIt will run for 2 monthes (With expension maybe availdable), from March 15th, to May 15th"
+            answer: "TrailIt will run for 2 months (with expansion maybe available), from March 15th, to May 15th"
         },
         {
             question: "How do I track my time?",
@@ -36,11 +36,11 @@
         },
         {
             question: "What counts as a web-app?",
-            answer: "A web-app is basicly any non-static website, that has some sort of functionality or interactivity to it. It can be a game, a tool, a social media platform, or anything else you can think of! If you're not sure if your project counts as a web-app, feel free to ask in the <a href='https://hackclub.enterprise.slack.com/archives/C0AGG8J6PLL' target='_blank'><u>#trailit-ysws</u></a> channel on Slack! (Game engines like unity and godot does *NOT* count!)"
+            answer: "A web-app is basically any non-static website, that has some sort of functionality or interactivity to it. It can be a game, a tool, a social media platform, or anything else you can think of! If you're not sure if your project counts as a web-app, feel free to ask in the <a href='https://hackclub.enterprise.slack.com/archives/C0AGG8J6PLL' target='_blank'><u>#trailit-ysws</u></a> channel on Slack! (Game engines like unity and godot does *NOT* count!)"
         },
         {
             question: "Is AI Allowed?",
-            answer: "Yes, AI is allowed to be used, but, its most be used only as an assistent, IT SHOULD *NOT* Write code insted of you."
+            answer: "Yes, AI is allowed to be used, but it must be used only as an assistant. IT SHOULD *NOT* write code instead of you."
         }
     ];
 
@@ -59,7 +59,7 @@
     <section class="faq-header">
         <div class="title">Frequently Asked Questions</div>
         <div class="subtitle">Find answers to common questions about {config["ysws-name"]}</div>
-        <div class="text-foreground text-center">By Submitting a Project to this YSW, You agree you will not preform any fraud, In any shape or form in all of HC Services (Including but not limited to this ysws, lapse, and hackatime)</div>
+        <div class="text-foreground text-center">By submitting a project to this YSWS, you agree you will not perform any fraud, in any shape or form in all of HC Services (including but not limited to this YSWS, Lapse, and Hackatime)</div>
         <Separator class="my-4" style="background-color: var(--ring);" />
     </section>
 
